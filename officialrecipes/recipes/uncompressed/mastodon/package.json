@@ -1,0 +1,24 @@
+{
+  "name": "Mastodon",
+  "id": "mastodon",
+  "version": "1.1.2",
+  "description": "Mastodon Recipe for Ferdi",
+  "main": "index.js",
+  "author": "The Ferdi Team <hello@getferdi.com> and Kan Fushihara <kan.fushihara@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "",
+    "serviceName": "Mastodon",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": true,
+    "hasCustomUrl": true,
+    "hostedOnly": true,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
